@@ -10,3 +10,4 @@ Conocer los roles y cararcteristicas de marco de trabajo SCRUM
 Conocer las instrucciones basicas para trabajar en una terminal Bash
 # Instrucciones de Git
 A continuacion se describen algunas de las instrucciones mas comunes 
+##Cambio pequeno
